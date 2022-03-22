@@ -1,5 +1,6 @@
 # **Fairness-in-NRL**
-
+- Fair Representation Learning for Heterogeneous Information Networks. AAAI, 2021, [pdf](https://arxiv.org/pdf/2104.08769.pdf)
+- List-wise Fairness Criterion for Point Processes, KDD, 2020, [pdf](https://dl.acm.org/doi/pdf/10.1145/3394486.3403246)
 - Du, Xin, et al. "Fairness in Network Representation by Latent Structural Heterogeneity in Observational Data." AAAI. 2020. [pdf](http://wwwis.win.tue.nl/~wouter/Publ/C21-MLSD.pdf)
 - Buyl, Maarten, and Tijl De Bie. "DeBayes: a Bayesian method for debiasing network embeddings." arXiv preprint arXiv:2002.11442 (2020). [pdf](https://arxiv.org/pdf/2002.11442.pdf)
 - Creager, E., Madras, D., Jacobsen, J., Weis, M., Swersky, K., Pitassi, T. & Zemel, R.. (2019). Flexibly Fair Representation Learning by Disentanglement. Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:1436-1445 [pdf](http://proceedings.mlr.press/v97/creager19a/creager19a.pdf)
